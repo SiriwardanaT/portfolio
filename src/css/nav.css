@@ -1,0 +1,11 @@
+
+nav a.nav-link:focus{
+   border-top:solid rgb(201, 67, 5)!important;
+   color:rgb(131, 39, 3) !important;
+}
+nav a.nav-link{
+    color:rgb(48, 48, 48) !important;
+    letter-spacing:0.053rem;
+    margin-left:4.2rem;
+    margin-right:1.8rem;
+}
